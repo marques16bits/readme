@@ -71,7 +71,7 @@ const eu = {
 
 | 🏫 Instituição | 📚 Curso | 📅 Período | 📍 Status |
 |:---:|:---:|:---:|:---:|
-| **Anhanguera** | Ciências da computação | 06XX – 47XX | 🟢 Cursando |
+| **Anhanguera** | Ciências da computação | 06 – 47 | 🟢 Cursando |
 
 </div>
 
